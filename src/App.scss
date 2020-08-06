@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+form, h1, .results {
+  max-width: 32rem;
+  margin: 1rem auto;
+}
+input {
+  display: block;
+  margin-bottom: 2rem;
+}
+img {
+  max-width: 100%;
+}
+label {
+  display: block;
+  margin-bottom: 0.25rem
+}
